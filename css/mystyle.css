@@ -1,0 +1,27 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0% 10%;
+    width: 80%;
+}
+.flex-container>div {
+    margin: 10px;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+    color: yellowgreen;
+}
+#input {
+    height: 50px;
+}
+#output {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+button {
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
